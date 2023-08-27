@@ -3,3 +3,16 @@ body {
     padding: 0;
 }
 
+.staggering {
+    background-color: black;
+    height: 50vh;
+    display: flex;
+    flex-direction: column;
+}
+
+.el {
+    height: 4vh;
+    width: 4vh;
+    background-color: white;
+    margin: 10px;
+}
