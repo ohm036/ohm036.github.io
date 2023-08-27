@@ -1,5 +1,5 @@
 anime ({
     targets: ".staggering .el",
-    translateX: 270,
+    translateX: '96vw',
     delay: anime.stagger(100)
 });
